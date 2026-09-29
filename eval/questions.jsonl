@@ -1,0 +1,4 @@
+{"id":"completed-contracts-march","question":"How many completed contracts were there in 2026-03?","expected_plan":"completed_contracts_by_month","expected_field":"completed_contracts","expected_value":3}
+{"id":"active-northstar","question":"How many active contracts does Northstar Logistics have?","expected_plan":"active_contracts_by_customer","expected_field":"active_contracts","expected_value":1}
+{"id":"top-customer","question":"Show the top customers by contract value","expected_plan":"top_customers_by_value","expected_field":"customer_name","expected_value":"Northstar Logistics"}
+{"id":"average-category","question":"What is the average contract value by vehicle category?","expected_plan":"average_value_by_category","expected_field":"vehicle_category","expected_value":"SUV"}
